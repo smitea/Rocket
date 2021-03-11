@@ -46,7 +46,7 @@ tempfile = "3"
 async-trait = "0.1.43"
 
 [dependencies.state]
-git = "https://github.com/SergioBenitez/state.git"
+git = "https://github.com.cnpmjs.org/SergioBenitez/state.git"
 rev = "0a7457d2"
 
 [dependencies.rocket_codegen]
@@ -59,7 +59,7 @@ path = "../http"
 features = ["serde"]
 
 [dependencies.multer]
-git = "https://github.com/rousan/multer-rs.git"
+git = "https://github.com.cnpmjs.org/rousan/multer-rs.git"
 rev = "0620e54"
 features = ["tokio-io"]
 
