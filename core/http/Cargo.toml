@@ -42,8 +42,7 @@ stable-pattern = "0.1"
 cookie = { version = "0.15", features = ["percent-encode"] }
 
 [dependencies.state]
-git = "https://github.com.cnpmjs.org/SergioBenitez/state.git"
-rev = "7576652"
+git = "https://github.com.cnpmjs.org/smitea/state.git"
 
 [dependencies._serde]
 package = "serde"
